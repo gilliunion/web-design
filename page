@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Gillian Kratzer</title>
+  </head>
+  <body>
+    <h1>Gillian Kratzer</h1>
+    <a href="#Favorite&nbspFood">One</a> <a href="#Achievements">Two</a> <a href="#More&nbspAbout&nbspMe">Three</a> <a href="https://www.twitter.com/Gilliunion">My Twitter</a>
+	<br>
+	<section>
+		<h2>Favorite Foods</h2>
+		<ul>
+			<li>Strawberries</li>
+			<li>Curry</li>
+			<li>Italian Sub</li>
+		</ul>
+	</section>
+	<br>
+	<section>
+		<h2>Achievements</h2>
+		<p>Progress in this course (100%) <progress value = "100" max = "100"/>
+		<p>Progress in Specialization Capstone (20%) <progress value = "20" max = "100"/>
+		<p>Progress in decluttering house (25%) <progress value = "25" max = "100"/>
+	</section>
+	<br>
+	<section>
+		<h2>More About Me</h2>
+		<details>
+			<summary>My Childhood</summary>
+			<p>I grew up mostly in Ellwood City, which is in Western Pennsylvania. When I was little I loved to go to the Pittsburgh Zoo</p>
+		</details>
+	</section>
+	<br>
+	<footer>
+		<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Intro to Webdesign"/>
+		<p>This page was created by Gillian Kratzer and Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web Design.</a>"</p>
+	</footer>
+  </body>
+</html>
